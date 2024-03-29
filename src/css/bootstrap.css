@@ -9161,6 +9161,7 @@ textarea.form-control-lg {
   border-top-left-radius: var(--bs-border-radius-xxl) !important;
 }
 
+
 .rounded-start-circle {
   border-bottom-left-radius: 50% !important;
   border-top-left-radius: 50% !important;
