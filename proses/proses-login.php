@@ -9,7 +9,7 @@ if($email == "putridelta0812@gmail.com" && $password == "1234"){
     $_SESSION['email'] = $email;
     $_SESSION['status'] = "login";
 
-    header("location: listingproduk.php");
+    header("location: ../listingproduk.php");
     exit();
 }else{
     header("location: ../login.php");

@@ -50,7 +50,7 @@
             </div>
       
 
-        <div class="card-body d-flex align-items-center rounded-start-circle rounded-end-4 " style="background: linear-gradient(to right, #ff7800,  #f79023, #eeb818);); width: 400px;">
+        <div class="card-body d-flex align-items-center rounded-start-circle rounded-end-4 " style="background: linear-gradient(to right, #ff7800,  #f79023, #eeb818); width: 400px;">
                <div class="container py-5 px-3  text-center d-flex flex-column align-items-center">
                 <h1 class="mb-4 mt-3 text-center fw-bold ">Granny’s Kitchen</h1>
                 <p>If you don't have an account yet, please register first</p>
